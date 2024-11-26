@@ -1,0 +1,5 @@
+Link video [ALGORITMOS DE ORDENAMIENTO](https://youtu.be/RX7KK8b8RNg)
+
+Link video ESTRUCTURAS LINEALES:
+
+Link video ESTRUCTURAS NO LINEALES:
