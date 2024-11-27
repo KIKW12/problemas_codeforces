@@ -1,4 +1,4 @@
-Link video [ALGORITMOS DE ORDENAMIENTO](https://youtu.be/RX7KK8b8RNg)
+Link video [ALGORITMOS DE ORDENAMIENTO](https://youtu.be/2AcxloSdL1E)
 
 Link video [ESTRUCTURAS LINEALES](https://youtu.be/MJWbALAXYKc)
 
